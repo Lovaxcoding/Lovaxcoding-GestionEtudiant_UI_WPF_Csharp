@@ -16,7 +16,7 @@ Bienvenue dans **BoostCsharp**, une application WPF ✨ permettant de gérer eff
 - **C#** : Langage de programmation.
 - **SQL Server LocalDB (.mdf)** : Base de données locale.
 - **ADO.NET** : Communication avec la base de données.
-- **Visual Studio 2013 ou plus récent** : Environnement de développement intégré (IDE).
+- **Visual Studio 2013** : Environnement de développement intégré (IDE).
 
 ---
 
